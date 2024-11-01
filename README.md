@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Making games and apps
-- 📫 How to reach me email me at saqibm.smp@gmail.com
+- 📫 How to reach me: email me at saqibm.smp@gmail.com
 
 <!---
 Ranger78654/Ranger78654 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
